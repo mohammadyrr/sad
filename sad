@@ -12,7 +12,7 @@ rustup install stable
 
 rustup update stable
 
-rustup default stable
+rustup default sble
 
 git clone https://github.com/AleoHQ/leo
 cd leo
